@@ -1,0 +1,8 @@
+.title-img-bar {
+    background-color: azure;
+}
+.title-img-bar > img {
+    width: 28%;
+    margin: 1em;
+}
+
